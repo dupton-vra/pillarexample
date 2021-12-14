@@ -1,3 +1,3 @@
 app_data:
-  username: testuser
-  loginsecret: testpass
+  username: testuser1
+  loginsecret: testpass123
